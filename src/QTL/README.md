@@ -1,0 +1,1 @@
+🤗 This proof-of-concept quantum machine learning model takes a face image input and detects a face that has a mask or no mask.
